@@ -1,0 +1,13 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+*.o
+.vscode/
+.idea/
+build/
+.DS_Store
+.env
+.acmoj_token
+
